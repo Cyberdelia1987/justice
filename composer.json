@@ -1,6 +1,7 @@
 {
     "name": "justice/db",
     "description": "A Database wrapper module for ZendFramework 2",
+	"type": "library",
     "license": "none",
     "authors": [
         {
@@ -16,6 +17,9 @@
 	"autoload": {
 		"psr-0": {
 			"Justice\\Db": "src/"
-		}
+		},
+		"classmap": [
+			"./Module.php"
+		]
 	}
 }

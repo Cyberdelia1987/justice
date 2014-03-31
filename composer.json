@@ -7,6 +7,10 @@
         {
             "name": "cyber",
             "email": "cyberdelia1987@gmail.com"
+        },
+        {
+        	"name" : "StanislaS,
+        	"email" : "stanislav.protasevich@gmail.com
         }
     ],
     "minimum-stability": "dev",
@@ -16,7 +20,7 @@
     },
 	"autoload": {
 		"psr-0": {
-			"Justice\\Db": "src/"
+			"ProDevZone\\Db": "src/"
 		},
 		"classmap": [
 			"./Module.php"

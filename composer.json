@@ -20,7 +20,7 @@
     },
 	"autoload": {
 		"psr-0": {
-			"ProDevZone\\Db": "src/"
+			"ProDevZoneDb": "src/"
 		},
 		"classmap": [
 			"./Module.php"

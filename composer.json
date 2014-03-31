@@ -1,5 +1,5 @@
 {
-    "name": "justice/db",
+    "name": "prodevzone/db",
     "description": "A Database wrapper module for ZendFramework 2",
 	"type": "library",
     "license": "none",
